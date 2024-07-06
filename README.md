@@ -1,1 +1,1 @@
-Welcome to the Frontend Mini Projects repository! This repository contains a collection of small-scale projects that demonstrate various frontend technologies, techniques, and concepts.It aims to provide a variety of frontend mini-projects that cover different aspects of web development
+Welcome to the Frontend Mini Projects repository! This repository contains a collection of small-scale projects that demonstrate various frontend technologies, techniques, and concepts.
